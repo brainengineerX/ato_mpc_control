@@ -1,0 +1,25 @@
+# 构建产物
+build/
+build-cov/
+*.o
+*.a
+*.out
+*.dis
+*.map
+
+# 覆盖率
+*.gcno
+*.gcda
+*.gcov
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 大体积生成物(可重新生成)
+ato_analysis.html

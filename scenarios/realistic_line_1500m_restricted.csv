@@ -1,0 +1,3 @@
+time_s,train_speed,ebi_speed,run_level_speed,distance_to_stop,grade,phase,train_stopped,stop_point_id,restriction_distance,restriction_speed,restriction_grade
+0.0,0.0,2200.0,2200.0,150000.0,0.0,cruise,0,103,100000;60000,1200;2200,0.0;10.0
+150.0,0.0,2200.0,2200.0,150000.0,0.0,cruise,0,103,100000;60000,1200;2200,0.0;10.0
